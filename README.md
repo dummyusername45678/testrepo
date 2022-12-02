@@ -1,7 +1,6 @@
 # testrepo
 This is a training repository.
 
-
 # Things to learn first
 
 1. Git
@@ -14,3 +13,10 @@ This is a training repository.
 - Git
 - Python
 - SQL
+
+# Important techniques
+
+- Regression
+- Data analysis
+- Statistical testing
+
