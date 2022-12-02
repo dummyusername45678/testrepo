@@ -7,3 +7,10 @@ This is a training repository.
 1. Git
 2. GitHub
 3. Data portfolio
+
+# Important software
+
+- R
+- Git
+- Python
+- SQL
